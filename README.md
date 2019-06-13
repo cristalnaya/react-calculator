@@ -2,6 +2,8 @@
 
 FreeCodeCamp Calculator is a simple app, built with React.
 
+![calculator](/public/img/calculator.png "FCC React Calculator")
+
 ## Install and Run the app
 
 * Clone this repo in your terminal with the command `git clone https://github.com/cristalnaya/react-calculator.git`
